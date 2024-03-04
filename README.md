@@ -1,7 +1,7 @@
 # Tebogo-Mosiane
 
-## Aspiring front-end software developer
-I am an aspiring front-end developer currently enrolled in a 6-month CodeSpace software development bootcamp. I am proficient in HTML, CSS, Tailwind and JavaScript. I am looking for a junior front-end developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
+## Aspiring software developer
+I am an aspiring software developer who is passionate about creating modern user-friendly web applications and mobile applications. My interests lie in cloud computing and developing and deploying applications to the cloud. I am looking for a junior software developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
 Contact Number: 079 816 1473
 
@@ -33,7 +33,7 @@ Feb 2009 - Nov 2011
 # Projects
 ## Tailwind Landing Page
 **Description:**
-A landing page for a bank. The page is designed with a mobile first approach and is responsive to changes in screen sizes. 
+A landing page for a bank. The page has a navigational menu and various informative sections. The page is designed with a mobile first approach and is responsive to changes in screen sizes. 
 
 Tech Stack:
 - HTML
@@ -43,8 +43,8 @@ Github:  https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGOMOSIANE_SDF
 
 ## My Tutoring Profile
 **Description:**
-A website for my tutoring profile.  The website has a landing page and an 'about me' page.
-It also has a contact form which takes in user input and sends it to my email.
+A website for my tutoring profile.  The website has a landing page with various sections and an 'about me' page. The website is fully responsive and was designed with a mobile-first approach.
+It also has a contact form which takes in user input and sends it to my personal email.
 
 Tech Stack:
 - HTML
@@ -55,8 +55,8 @@ GitHub: https://github.com/MosianeTS/Tutoring-Profile
 
 ## My Development Portfolio Site
 **Description:**
-A website for my development portfolio.  The website has various sections including 'about me', projects and a contact section.
-There is a contact form which takes in user input and sends it to my email.
+A website for my development portfolio.  The website has various sections including an 'about me' section, a projects section and a contact section.
+There is a contact form which takes in user input and sends it to my personal email.
 
 Tech Stack:
 - HTML
