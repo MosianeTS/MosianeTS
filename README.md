@@ -18,16 +18,16 @@ Personal Portfolio Site: https://tebogo-dev.netlify.app/
 
 # Education
 ## Software Development Bootcamp
-CodeSpace Academy
-In Progress
+CodeSpace Academy<br>
+Jan 2024 - 
 
 ## Bachelor of Science in Engineering (Mechanical)
-University of the Witwatersrand
-2012 - 2015
+University of the Witwatersrand<br>
+Feb 2012 - Nov 2015
 
 ## Bachelor of Science in Physics
-University of the Witwatersrand
-2009 - 2011
+University of the Witwatersrand<br>
+Feb 2009 - Nov 2011
   
 
 # Projects
@@ -38,7 +38,7 @@ A landing page for a bank. The page is designed with a mobile first approach and
 Tech Stack:
 - HTML
 - Tailwind
-- JavaScript
+- JavaScript<br><br>
 Github:  https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGOMOSIANE_SDF11
 
 ## My Tutoring Profile
@@ -49,7 +49,7 @@ It also has a contact form which takes in user input and sends it to my email.
 Tech Stack:
 - HTML
 - CSS
-- JavaScript
+- JavaScript<br><br>
 Github: https://tebogo-tutor.netlify.app/
 
 ## My development portfolio site
@@ -60,7 +60,7 @@ There is a contact form which takes in user input and sends it to my email.
 Tech Stack:
 - HTML
 - CSS
-- JavaScript
+- JavaScript<br><br>
 Github: https://tebogo-dev.netlify.app/
 
 
