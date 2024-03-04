@@ -10,3 +10,12 @@ mosianets@gmail.com
 Personal Portfolio Site
 
 # Technologies
+- HTML5
+- CSS3
+- TailWind
+- JavaScript
+
+# Projects
+## Tailwind Landing Page
+Github: 
+
