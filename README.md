@@ -1,7 +1,7 @@
 # Tebogo-Mosiane
 
 ## Aspiring front-end software developer
-I am an aspiring front-end developer currently enrolled in a 6-month CodeSpace software development bootcamp. I am proficient in HTML, CSS, Tailwind and JavaScript. I am looking for a junior front-end developer role where I can utilize my acquired skills and knowledge to fast track my career and help reach organisational goals.
+I am an aspiring front-end developer currently enrolled in a 6-month CodeSpace software development bootcamp. I am proficient in HTML, CSS, Tailwind and JavaScript. I am looking for a junior front-end developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
 Contact Number: 079 816 1473
 
@@ -50,7 +50,8 @@ Tech Stack:
 - HTML
 - CSS
 - JavaScript<br><br>
-Github: https://tebogo-tutor.netlify.app/
+Site Link: https://tebogo-tutor.netlify.app/ <br>
+GitHub: https://github.com/MosianeTS/Tutoring-Profile
 
 ## My development portfolio site
 Description:
@@ -61,7 +62,8 @@ Tech Stack:
 - HTML
 - CSS
 - JavaScript<br><br>
-Github: https://tebogo-dev.netlify.app/
+Site Link: https://tebogo-dev.netlify.app/ <br>
+GitHub: https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGO-MOSIANE_SDF08
 
 
 
