@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tebogo-Mosiane
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tebogo Mosiane
 
 ## Aspiring software developer
 I am an aspiring software developer who is passionate about creating modern user-friendly web applications and mobile applications. My interests lie in cloud computing and developing and deploying applications to the cloud. I am looking for a junior software developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
@@ -9,11 +9,13 @@ I am an aspiring software developer who is passionate about creating modern user
 
 Personal Portfolio Site: https://tebogo-dev.netlify.app/
 
-# Technologies
-- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
+# Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</p>
+
+
 
 # Education
 ## Software Development Bootcamp
