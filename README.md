@@ -48,6 +48,7 @@ Github:  https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGOMOSIANE_SDF
 **Description:**
 A website for my tutoring profile.  The website has a landing page with various sections and an 'about me' page. The website is fully responsive and was designed with a mobile-first approach.
 It also has a contact form which takes in user input and sends it to my personal email.
+![Alt text](image_url)
 
 Tech Stack:<br>
 <p align="left">
