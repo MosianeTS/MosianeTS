@@ -8,7 +8,7 @@ I am an aspiring software developer who is passionate about creating modern user
 ✉️ mosianets@gmail.com
 
 [Personal Portfolio Site](https://tebogo-dev.netlify.app/)
-Personal Portfolio Site: https://tebogo-dev.netlify.app/
+
 
 # Skills
 
