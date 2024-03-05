@@ -11,10 +11,9 @@ Personal Portfolio Site: https://tebogo-dev.netlify.app/
 
 # Technologies
 - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- CSS3
-- TailWind
-- JavaScript
-- GitHub
+- [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
 
 # Education
 ## Software Development Bootcamp
