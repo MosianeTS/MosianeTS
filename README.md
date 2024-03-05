@@ -36,7 +36,7 @@ Feb 2009 - Nov 2011
 ## Tailwind Landing Page
 **Description:**
 A landing page for a bank. The page has a navigational menu and various informative sections. The page is designed with a mobile first approach and is responsive to changes in screen sizes. 
-
+![Alt text](https://github.com/MosianeTS/MosianeTS/blob/main/Cache%20Pic.png)
 Tech Stack:<br>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -48,8 +48,7 @@ Github:  https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGOMOSIANE_SDF
 **Description:**
 A website for my tutoring profile.  The website has a landing page with various sections and an 'about me' page. The website is fully responsive and was designed with a mobile-first approach.
 It also has a contact form which takes in user input and sends it to my personal email.
-![Alt text](image_url)
-
+![Alt text](https://github.com/MosianeTS/MosianeTS/blob/main/Cache%20Pic.png)
 Tech Stack:<br>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -61,7 +60,7 @@ GitHub: https://github.com/MosianeTS/Tutoring-Profile
 **Description:**
 A website for my development portfolio.  The website has various sections including an 'about me' section, a projects section and a contact section.
 There is a contact form which takes in user input and sends it to my personal email.
-
+![Alt text](https://github.com/MosianeTS/MosianeTS/blob/main/Cache%20Pic.png)
 Tech Stack:<br>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
