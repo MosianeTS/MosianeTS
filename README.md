@@ -3,14 +3,14 @@
 ## Aspiring software developer
 I am an aspiring software developer who is passionate about creating modern user-friendly web applications and mobile applications. My interests lie in cloud computing and developing and deploying applications to the cloud. I am looking for a junior software developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
-Contact Number: 079 816 1473
+Contact Number: 079 816 1473 
 
 Email address: mosianets@gmail.com
 
 Personal Portfolio Site: https://tebogo-dev.netlify.app/
 
 # Technologies
-- HTML5
+- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - CSS3
 - TailWind
 - JavaScript
