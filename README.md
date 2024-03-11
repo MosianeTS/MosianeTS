@@ -21,7 +21,7 @@ I am an aspiring software developer who is passionate about creating modern user
 # Education
 ## Software Development Bootcamp
 CodeSpace Academy<br>
-Jan 2024 - 
+Jan 2024 - Present
 
 ## Bachelor of Science in Engineering (Mechanical)
 University of the Witwatersrand<br>
