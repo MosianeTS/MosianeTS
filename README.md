@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tebogo Mosiane
 
 ## Aspiring software developer
-I am an aspiring software developer who is passionate about creating modern user-friendly web applications and mobile applications. My interests lie in cloud computing and developing and deploying applications to the cloud. I am looking for a junior software developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
+I am an aspiring software developer who is passionate about creating modern user-friendly web applications. My interests lie in web application development and cloud computing. I am looking for a junior software developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
 📱079 816 1473 
 
