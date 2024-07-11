@@ -21,7 +21,7 @@ I am an entry-level software developer who is passionate about coding and creati
 # Education
 ## Software Development Bootcamp
 CodeSpace Academy<br>
-Jan 2024 - Present
+Jan 2024 - June 2024
 
 ## Bachelor of Science in Engineering (Mechanical)
 University of the Witwatersrand<br>
