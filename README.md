@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tebogo Mosiane
 
-## Entry-level software developer
-I am an intermediate software developer with 3+ years of expertise in creating modern, high-quality, user-friendly web applications. My interests lie in full stack development and cloud computing. I am looking for a intermediate front-end developer or full-stack developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
+## Full-stack software developer
+A full-stack developer with 3+ years of expertise in creating modern, high-quality, user-friendly web applications. My interests lie in full stack development and cloud computing. I am looking for a intermediate front-end developer or full-stack developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
 📱079 816 1473 
 
