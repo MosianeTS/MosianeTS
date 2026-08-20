@@ -35,16 +35,6 @@ Feb 2009 - Nov 2011
   
 
 # Projects
-## Tailwind Landing Page
-**Description:**
-A landing page for a bank. The page has a navigational menu and various informative sections. The page is designed with a mobile first approach and is responsive to changes in screen sizes. 
-![Alt text](https://github.com/MosianeTS/MosianeTS/blob/main/Cache%20Pic.png)
-Tech Stack:<br>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-</p>
-
-Github:  https://github.com/MosianeTS/TEBMOS452_WFO2401_GROUPA_TEBOGOMOSIANE_SDF11
 
 ## My Tutoring Profile
 **Description:**
