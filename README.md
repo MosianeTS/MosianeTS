@@ -10,13 +10,13 @@ A full-stack developer with 4+ years of expertise in creating modern, high-quali
 
 + CSS
 + JavaScript
-+ TypeScript
 + React.js
 + Django
 + Python
-+ Java
++ C#
 + MySQL
 + Linux
++ AWS
 
 
 
