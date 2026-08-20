@@ -4,11 +4,7 @@
 A full-stack developer with 4+ years of expertise in creating modern, high-quality, user-friendly web applications. My interests lie in full stack development and cloud computing. I am looking for a intermediate front-end developer or full-stack developer role where I can utilize my acquired skills and knowledge to fast track my career and contribute to the achievement of organisational goals and objectives.
 
 📱079 816 1473 
-
 ✉️ mosianets@gmail.com
-
-[Personal Portfolio Site](https://tebogo-dev.netlify.app/)
-
 
 # Skills
 
